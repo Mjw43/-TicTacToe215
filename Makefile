@@ -17,3 +17,4 @@ obj:
 clean:
 	rm $(EXE)
 	rm -r obj
+
